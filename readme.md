@@ -41,7 +41,7 @@ Esta é uma API simples que contém apenas dois métodos HTTP: GET e POST. A API
 
   ```bash
   npm install
-  npm start
+  npm dev
   ```
 
   O servidor estará disponível em http://localhost:3000
